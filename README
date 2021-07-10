@@ -1,0 +1,67 @@
+Command-Line Chaining
+ Part 1: Command Line Chaining
+
+https://linuxhint.com/bash_operator_examples/
+Part 2: Command Line Chaining
+https://www.geeksforgeeks.org/basic-operators-in-shell-scripting/ 
+
+Disks and File System Permissions
+Part 1: dd, gzip, fdisk, swapoff/on, free,
+find,chmod, etc. 
+https://www.thegeekdiary.com/understanding-basic-file-permissions-and-ownership-in-linux/
+
+https://www.oreilly.com/library/view/linux-pocket-guide/9780596806347/re44.html
+
+Part 2: mount, runlevel, fsck, mkswap,
+resize2fs, etc.
+
+https://www.thegeekdiary.com/how-to-backup-linux-os-using-dd-command/#:~:text=2.,everything%20using%20synchronized%20I%2FO.
+
+
+
+
+https://askubuntu.com/questions/709716/resize-vm-partition-without-erasing-data
+
+
+Time-based Task Scheduling with Cron
+
+https://devhints.io/cron
+https://crontab.guru/
+
+
+Part 1: Shell Scripting & Task Automation https://devhints.io/bash
+
+Part 2: Shell Scripting & Task Automation
+https://linuxconfig.org/bash-scripting-tutorial-for-beginners
+
+https://linuxhint.com/30_bash_script_examples/
+
+
+Project: Creating a Password Manager Part 1
+
+Tiny+PM.sh
+
+https://github.com/nmeum/tpm/blob/master/tpm
+
+
+Project: Creating a Password Manager Part 2
+
+
+Processes, Services and
+Performance Management
+
+Part 1: ps, process details, etc.
+https://www.tutorialspoint.com/unix/unix-signals-traps.htm
+
+https://cloudchef.medium.com/linux-process-states-and-signals-a967d18fab64
+
+
+Part 2:kill, killall, pkill, pstree, lsof, pgrep, top,
+htop, etc.
+https://www.booleanworld.com/kill-process-linux/
+https://phoenixnap.com/kb/how-to-kill-a-process-in-linux
+
+
+iptables Firewall Concepts
+
+https://en.wikipedia.org/wiki/Netfilter
